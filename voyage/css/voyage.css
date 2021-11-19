@@ -1,0 +1,114 @@
+section{
+    background-color: rgb(255, 255, 255);
+    height: 370px;
+    margin: 25px;
+    border: 3px solid white;
+    border-radius: 30px;
+    background: linear-gradient(rgb(86,166,241), rgb(191,129,148));
+    width: 1300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: auto;
+}
+
+img{
+    width: 30%;
+    border-radius: 400% 400% 400% 400%;
+    float: left;
+}
+
+li{
+    display: inline-block;
+    position: relative;
+    left: 85%;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    left: 50px;
+}
+
+header{
+    background: linear-gradient(rgb(45, 253, 149), rgb(34,193,195));
+    color: white;
+}
+
+footer{
+    background: linear-gradient(rgb(45, 253, 149), rgb(34,193,195));
+    width: 1900px;
+    height: 100px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 100px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.b{
+    position: relative;
+    background: linear-gradient(rgb(70,134,195), rgb(97,227,194));
+    width: 50%;
+    width: 1300px;
+    border-radius: 30px;
+    height: 370px;
+    margin: 25px;
+    border: 2px solid white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.c{
+    position: relative;
+    text-align: right;
+    width: 50%;
+    align-content: center;
+    background: linear-gradient(rgb(92,144,181), rgb(226,132,23));
+    border-radius: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid white;
+    border-radius: 30px;
+    width: 1300px;
+    height: 370px;
+    margin: 25px;
+    margin: auto;
+}
+
+.img3{
+    width: 25%;
+    border-radius: 400% 400% 400% 400%;
+    margin-left: 200px;
+}
+
+.img2{
+    width: 30%;
+    border-radius: 400% 400% 400% 400%;
+    margin-left: 290px;
+}
+
+.img1{
+    width: 30%;
+    border-radius: 400% 400% 400% 400%;
+    margin-left: 200px;
+}
+

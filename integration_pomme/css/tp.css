@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+}
+
+#conteneur{
+    width: 770px;
+    margin: 0 auto;
+}
+
+td{
+    text-align: center;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
